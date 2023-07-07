@@ -1,0 +1,1 @@
+The project entails html and css code used to structure  and design a web page
